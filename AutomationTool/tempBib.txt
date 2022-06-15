@@ -1,0 +1,13 @@
+
+
+
+@inproceedings{Olwal_2020,
+	doi = {10.1145/3313831.3376236},
+	url = {https://doi.org/10.1145%2F3313831.3376236},
+	year = 2020,
+	month = {apr},
+	publisher = {{ACM}},
+	author = {Alex Olwal and Thad Starner and Gowa Mainini},
+	title = {E-Textile Microinteractions: Augmenting Twist with Flick, Slide and Grasp Gestures for Soft Electronics},
+	booktitle = {Proceedings of the 2020 {CHI} Conference on Human Factors in Computing Systems}
+}

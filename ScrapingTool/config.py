@@ -1,0 +1,5 @@
+host = 'scholardb.ckpf3btwnith.us-east-2.rds.amazonaws.com'
+user = 'purdueclab'
+passwd = 'chimera123'
+db_name = 'scholardb'
+port = '3306'
